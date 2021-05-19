@@ -1,14 +1,10 @@
 ### 👋 I'm Darkhan Khamitov 
 
-I am a student from Kazakhstan, I am interested in the development of mobile applications and websites
+I am a student🎓 from Kazakhstan, I am interested in the development of mobile applications and websites
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320">
   
-  
- - 🎓 I'm currently studying Information Systems at the Kazakh-British Technical University
- - 🌱 I'm on track for learning more about Mobile applications and Web Development
- - ✍️ In my free time, I read self-development books, listen to music and do sports
- - 📫 E-mail: darkhan.khamitov17@gmail.com
+ E-mail: darkhan.khamitov17@gmail.com
 
 **Languages and Tools:**
 
